@@ -1,1 +1,1 @@
-# JavaScript_Task
+# JavaScript_Tasks
